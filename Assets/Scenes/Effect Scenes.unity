@@ -23402,7 +23402,7 @@ GameObject:
   - component: {fileID: 935332067}
   - component: {fileID: 935332066}
   m_Layer: 0
-  m_Name: WaterfallSmallEffect(Clone)
+  m_Name: WaterfallSmallEffect (Ink)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
